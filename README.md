@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **juan.ignacio.lucero@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/juanignaciolucero/](https://www.linkedin.com/in/juanignaciolucero/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
