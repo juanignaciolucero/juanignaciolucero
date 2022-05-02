@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">Im a software engineer from Argentina</h3>
 
-- 🔭 I’m currently working in **Scale as a javascript fullstack dev**
+- 🔭 I’m currently working at **Scale as a javascript fullstack dev**
 
 - 🌱 I’m currently learning **Machine Learning**
 
